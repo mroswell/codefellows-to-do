@@ -1,0 +1,40 @@
+.title {
+    color: #88B541;
+    font:bold 40px"Arial";
+}
+.heading, #gohere {
+    color:#2E3F14;
+    font: bold 14px"Arial";
+}
+.heading {
+    margin-top:20px;
+}
+input[type="text"] {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #88B541;
+    border-radius: 3px;
+    color: #000;
+    display: inline;
+    font: 13px"HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 2px 0 20px;
+    max-width: 100%;
+    outline: medium none;
+    padding: 6px 4px;
+    width: 300px;
+}
+form {
+    display:inline;
+}
+
+button{
+    font-family: "HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 4px 10px;
+}
+
+body {
+    width: 300px;
+    margin: 0px auto;
+    text-align: center;
+}
